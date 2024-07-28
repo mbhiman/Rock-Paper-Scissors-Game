@@ -45,16 +45,16 @@ This is a simple implementation of the classic Rock Paper Scissors game with pla
 - JavaScript: For implementing the game logic.
 
 ## File Structure
-.
-├── index.html
-├── StyleSheets
-│   └── rock-paper-scissors.css
-├── Scripts
-│   └── rock-paper-scissors.js
-└── images
-    ├── rock-emoji.png
-    ├── paper-emoji.png
-    └── scissors-emoji.png
+   ```
+   ├── index.html
+   ├── StyleSheets
+   │   └── rock-paper-scissors.css
+   ├── Scripts
+   │   └── rock-paper-scissors.js
+   └── images
+       ├── rock-emoji.png
+       ├── paper-emoji.png
+       └── scissors-emoji.png
 
 ## Contributing
 1. Fork the repository.
