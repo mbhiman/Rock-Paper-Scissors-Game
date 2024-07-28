@@ -45,7 +45,7 @@ This is a simple implementation of the classic Rock Paper Scissors game with pla
 - JavaScript: For implementing the game logic.
 
 ## File Structure
-   ```
+   ```bash
    ├── index.html
    ├── StyleSheets
    │   └── rock-paper-scissors.css
@@ -55,7 +55,7 @@ This is a simple implementation of the classic Rock Paper Scissors game with pla
        ├── rock-emoji.png
        ├── paper-emoji.png
        └── scissors-emoji.png
-
+   ```
 ## Contributing
 1. Fork the repository.
 2. Create your feature branch: git checkout -b feature/your-feature-name
